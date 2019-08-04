@@ -2,7 +2,6 @@ from tkinter import*
 import sys
 from math import*
 
-"""Calculator made by Francisco J. Vergara Torres"""
 
 def basicCalculator(root, side):
     storeObj = Frame(root, borderwidth = 1, bd = 4, bg = "Light Slate Gray")
